@@ -1,6 +1,6 @@
 # ENCRYPT-YOUR-FILES
 this tool is for people with trust issues such as me i created this tool so anyone could use it to encrypt their own files by them selves! 
-the tool is free simple and works perfectly it uses the standard AES265 GCM encryption algorithm (IT ALSO HASHS YOUR MESSAGE!) just install a coupel of libraries and it should be ready to work
+the tool is free simple and works perfectly it uses the standard AES256 GCM encryption algorithm (IT ALSO HASHS YOUR MESSAGE!) just install a coupel of libraries and it should be ready to work
 benefits: 
 1. free
 2. no internet
